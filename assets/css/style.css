@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: maroon;
+    height: 220px;
+    border-right: 15px solid black;
+    border-left: 15px solid black;
+    border-bottom: 12.5px solid darkred;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+}
+
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.sub-header {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.card-header {
+    background-color: royalblue;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card {
+    margin-bottom: 25px;
+    border-color: royalblue;
+}
